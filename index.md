@@ -18,3 +18,10 @@ bash <(curl -s https://pterodactyl-installer.se)
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+## What is done?
+
+- [x] Discord
+- [x] Hosting web
+- [ ] Panel and wings
+- [x] Video to promo the hosting
+- [x] github
